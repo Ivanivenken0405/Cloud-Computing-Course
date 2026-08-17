@@ -52,7 +52,4 @@ AWS can be used for:
 - Enterprise applications
 
 ## Screenshot
-
-AWS screenshot:
-
-`screenshots/aws-homepage.png`
+https://github.com/nashperez231-prog/cloud-computing-course/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/aws-homepage.png?raw=true
